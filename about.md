@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Mechatronics Engineering student at Mansoura university who realized that data science and machine learning is a much better career.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Pytorch > Tensorlow.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[yasserfawzi1029@outlook.com](mailto:yasserfawzi1029@outlook.com)
