@@ -47,5 +47,12 @@ To generate good representation vectors for imagery data, the most popular appro
 Negative sampling is very hard to perform, deciding which picture is considered "different" in a way that aids the representation task is difficult. That's why other methods exist called Non-Contrastive methods, the main idea is very similar but without the negative sampling part, papers like [BYOL](https://arxiv.org/abs/2006.07733) and [DINO](https://arxiv.org/abs/2104.14294) (blog post and code coming soon for DINO's paper stay tuned) are good examples for such methods.
 
 
+I'd like to end this post with this exchange between Lex Fridman and Yann LeCun from Lex's podcast:
+
+*Lex: Do you think it is possible that formulation alone (fill in the blanks approach) as a signal for self supervised learning can solve intelligence for vision and language?* 
+
+*Yann: I think this is our best shot at the moment.*
+
+
 Very useful resources on self supervised learning:
 [Lex and Yann LeCun](https://www.youtube.com/watch?v=JNiY0RXxFZY), [Lex and Ishan Misra](https://www.youtube.com/watch?v=mvTQwA7Q9L4), [this blog post](https://ai.facebook.com/blog/self-supervised-learning-the-dark-matter-of-intelligence/)  and its explaination by [Yannic Kilcher](https://www.youtube.com/watch?v=Ag1bw8MfHGQ).
