@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Self-supervised learning is our best shot"
+title: Self-supervised learning is our best shot
 ---
 The most popular type of machine learning is Supervised machine learning. Supervised machine learning works in this manner, you gather lots of human-labeled data, these labels that the humans annotate work as "points of interests" or "guides" for the machine learning system to use such that it can learn something useful about the data, for example annotating a picture of a cat with label "cat", tells the model that this picture contains features that are distinct to cats so try and figure out those features, annotating objects within a picture with bounding boxes guides the model that within these boundaries there is something of interest so try and learn how to figure these boundaries out.
 
@@ -47,3 +47,5 @@ To generate good representation vectors for imagery data, the most popular appro
 Negative sampling is very hard to perform, deciding which picture is considered "different" in a way that aids the representation task is difficult. That's why other methods exist called Non-Contrastive methods, the main idea is very similar but without the negative sampling part, papers like BYOL and DINO (blog post and code coming soon for DINO's paper stay tuned) are good examples for such methods.
 
 
+Very useful resources on self supervised learning:
+[Lex and Yann LeCun](https://www.youtube.com/watch?v=JNiY0RXxFZY), [Lex and Ishan Misra](https://link-url-here.org), [this blog](https://ai.facebook.com/blog/self-supervised-learning-the-dark-matter-of-intelligence/)  and its explaination by [Yannic Klicher](https://www.youtube.com/watch?v=Ag1bw8MfHGQ).
