@@ -48,4 +48,4 @@ Negative sampling is very hard to perform, deciding which picture is considered 
 
 
 Very useful resources on self supervised learning:
-[Lex and Yann LeCun](https://www.youtube.com/watch?v=JNiY0RXxFZY), [Lex and Ishan Misra](https://www.youtube.com/watch?v=mvTQwA7Q9L4), [this blog](https://ai.facebook.com/blog/self-supervised-learning-the-dark-matter-of-intelligence/)  and its explaination by [Yannic Klicher](https://www.youtube.com/watch?v=Ag1bw8MfHGQ).
+[Lex and Yann LeCun](https://www.youtube.com/watch?v=JNiY0RXxFZY), [Lex and Ishan Misra](https://www.youtube.com/watch?v=mvTQwA7Q9L4), [this blog post](https://ai.facebook.com/blog/self-supervised-learning-the-dark-matter-of-intelligence/)  and its explaination by [Yannic Kilcher](https://www.youtube.com/watch?v=Ag1bw8MfHGQ).
