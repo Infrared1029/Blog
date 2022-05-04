@@ -8,7 +8,7 @@ Mechatronics Engineering student at Mansoura university who realized that data s
 
 ### More Information
 
-Pytorch > Tensorlow.
+Pytorch > Tensorflow.
 
 ### Contact me
 
